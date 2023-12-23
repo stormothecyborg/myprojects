@@ -103,7 +103,7 @@ def new_game():
 
 
 
-#frame, design
+
 window = Tk()
 window.title("Tic-Tac-Toe")
 players = ("Z", "S")
